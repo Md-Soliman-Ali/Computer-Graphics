@@ -22,7 +22,7 @@
 
 7. For New Project Create :
 
-    New -> Project -> GLUT Project -> Go -> Next -> ( Type Project Title ) Next ->  ( C:\ProgramFiles(x86)\CodeBlocks\MinGW )
+    New -> Project -> GLUT Project -> Go -> Next -> ( Type Project Title ) Next -> ( C:\ProgramFiles(x86)\CodeBlocks\MinGW )
     
     ( GLUT Location ) Next -> Finish
     
