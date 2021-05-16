@@ -22,9 +22,9 @@
 
 7. For New Project Create :
 
-    New -> Project -> GLUT Project -> Go -> Next -> ( Type Project Title ) Next -> ( C:\ProgramFiles(x86)\CodeBlocks\MinGW )
+    New -> Project -> GLUT Project -> Go -> Next -> ( Type Project Title ) Next -> ( GLUT Location ) 
     
-    ( GLUT Location ) Next -> Finish
+    ( C:\ProgramFiles(x86)\CodeBlocks\MinGW ) Next -> Finish
     
 8. Need To Include A Header File Called ( # include <windows.h> )
 
