@@ -29,3 +29,5 @@
 8. Need To Include A Header File Called ( # include <windows.h> )
 
 9. Download Your Required Repository Files.
+
+10. You Can Run ( exe ) File Simply Going To Your Required Repository -> bin/Debug
